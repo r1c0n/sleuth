@@ -1,0 +1,2 @@
+# Introduction
+Welcome, new user! If you don't know yet, Social Sleuth is a tool that allows you to search for social media accounts across 50+ websites in bulk! Social Sleuth is a command-line tool built in Python, and is entirely beginner-friendly & open-source!
