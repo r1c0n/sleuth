@@ -10,4 +10,4 @@ Alternatively, you can use the following command:
 python sleuth.py --username USER
 ```
 
-Next, see [-u](https://github.com/OfficialB/sleuth/blob/main/docs/usage/-u.md) or [--username](https://github.com/OfficialB/sleuth/blob/main/docs/usage/--username.md).
+Next, see [-u](https://github.com/OfficialB/sleuth/blob/main/docs/usage/-u.md), [--username](https://github.com/OfficialB/sleuth/blob/main/docs/usage/--username.md) or [template](https://github.com/OfficialB/sleuth/blob/main/docs/usage/template.md).
