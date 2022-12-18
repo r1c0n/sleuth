@@ -15,9 +15,7 @@ user = args.user
 
 # Prints out links if the user argument has a value
 if user:
-    link = (
-        print
-        (
+    print(
             # Basic program information
             "\nYou are currently running product version: " + var.product + " v" + var.v + ", created by " + var.creator +
             "\n----------------------------------------------" + 
@@ -39,6 +37,3 @@ if user:
             "\nhttps://www.guilded.gg/" + user +                     
             "\nhttps://www.guilded.gg/u/" + user
         )
-    )
-
-print(link)
