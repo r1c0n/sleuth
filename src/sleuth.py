@@ -21,21 +21,21 @@ if user:
             f"\nYou are currently running {var.product} v{var.v}, created by {var.creator}"
             "\n----------------------------------------------" + 
             # Links
-            "\nhttps://twitter.com/" + user +
-            "\nhttps://www.facebook.com/" + user +
-            "\nhttps://linkedin.com/in/" + user +
-            "\nhttps://www.snapchat.com/app/" + user +
-            "\nhttps://www.instagram.com/" + user +
-            "\nhttps://www.tiktok.com/@" + user +
-            "\nhttps://www.pinterest.com/" + user +
-            "\nhttps://www.tumblr.com/blog/view/" + user +
-            "\nhttps://www.reddit.com/user/" + user +
-            "\nhttps://github.com/" + user +
-            "\nhttps://www.flickr.com/photos/" + user +
-            "\nhttps://soundcloud.com/" + user +
-            "\nhttps://t.me/" + user +
-            "\nhttps://www.bitview.net/profile.php?user=" + user +
-            "\nhttps://www.vidlii.com/user/" + user +
-            "\nhttps://www.guilded.gg/" + user +                     
-            "\nhttps://www.guilded.gg/u/" + user
+            f"\nhttps://twitter.com/{user}" +
+            f"\nhttps://www.facebook.com/{user}" +
+            f"\nhttps://linkedin.com/in/{user}" +
+            f"\nhttps://www.snapchat.com/app/{user}" +
+            f"\nhttps://www.instagram.com/{user}" +
+            f"\nhttps://www.tiktok.com/@{user}" +
+            f"\nhttps://www.pinterest.com/{user}" +
+            f"\nhttps://www.tumblr.com/blog/view/{user}" +
+            f"\nhttps://www.reddit.com/user/{user}" +
+            f"\nhttps://github.com/{user}" +
+            f"\nhttps://www.flickr.com/photos/{user}" +
+            f"\nhttps://soundcloud.com/{user}" +
+            f"\nhttps://t.me/{user}" +
+            f"\nhttps://www.bitview.net/profile.php?user={user}" +
+            f"\nhttps://www.vidlii.com/user/{user}" +
+            f"\nhttps://www.guilded.gg/{user}" +                     
+            f"\nhttps://www.guilded.gg/u/{user}"
         )
