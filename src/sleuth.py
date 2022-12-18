@@ -20,6 +20,7 @@ if user:
             # Basic program information
             "\nYou are currently running product version: " + var.product + " v" + var.v + ", created by " + var.creator +
             "\n----------------------------------------------" + 
+            # Links
             "\nhttps://twitter.com/" + user +
             "\nhttps://www.facebook.com/" + user +
             "\nhttps://linkedin.com/in/" + user +
