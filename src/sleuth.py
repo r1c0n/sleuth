@@ -37,5 +37,29 @@ if user:
             f"\nhttps://www.bitview.net/profile.php?user={user}" +
             f"\nhttps://www.vidlii.com/user/{user}" +
             f"\nhttps://www.guilded.gg/{user}" +                     
-            f"\nhttps://www.guilded.gg/u/{user}"
+            f"\nhttps://www.guilded.gg/u/{user}" +
+            f"\nhttps://bwitter.me/{user}" +   
+            f"\nhttps://youtube.com/user/{user}" +   
+            f"\nhttps://codepen.io/{user}" +   
+            f"\nhttps://pastebin.com/u/{user}" +   
+            f"\nhttps://replit.com/@{user}" +   
+            f"\nhttps://{user}.carrd.co" +   
+            f"\nhttps://www.crunchyroll.comc/user/{user}" +   
+            f"\nhttps://scratch.mit.edu/users/{user}" +   
+            f"\nhttps://discords.com/bio/p/{user}" +   
+            f"\nhttps://www.twitch.tv/{user}" +   
+            f"\nhttps://{user}.newgrounds.com" +   
+            f"\nhttps://archive.org/details/@{user}" +   
+            f"\nhttps://{user}.github.io" +   
+            f"\nhttps://vimeo.com/{user}" +   
+            f"\nhttps://youtube.com/@{user}" +   
+            f"\nhttps://about.me/{user}" +   
+            f"\nhttps://{user}.ct8.pl" +   
+            f"\nhttps://community.brave.com/u/{user}" +   
+            f"\nhttps://{user}.infinityfreeapp.com" +   
+            f"\nhttps://{user}.rf.gd" +   
+            f"\nhttps://{user}.great-site.net" +   
+            f"\nhttps://{user}.epizy.com" +   
+            f"\nhttps:///{user}.42web.io" +   
+            f"\nhttps:///{user}.lovestoblog.com"   
         )
