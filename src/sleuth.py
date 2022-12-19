@@ -20,7 +20,7 @@ if user:
     # Basic program information
     links_string = f"\nYou are currently running {var.product} v{var.v}, created by {var.creator}"
     links_string += "\n----------------------------------------------" 
+
     # Links
     links_string += "\n".join(link.format(user=user) for link in links_list)
-    
     print(links_string)
