@@ -21,7 +21,7 @@ SocialSlueth is a command-line program, meaning you don't have to launch any exe
 python sleuth.py -u Username
 ```
 ```
-python sleuth.py --username Username
+python sleuth.py --user Username
 ```
 
 ---
