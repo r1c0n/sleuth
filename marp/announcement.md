@@ -12,7 +12,7 @@ Social Sleuth is completely free, with no plans of adding a paid version anytime
 
 ---
 ## It's Open Source
-Social Sleuth's code is 100% open source, and free to modify. Just remember that using the code and not heavily modifying it & claiming you own it is stealing, and can get you in big trouble.
+Social Sleuth's code is 100% open source, and free to modify. Social Sleuth is licensed under the GNU GPLv3 license.
 
 ---
 ## It's Easy to Use
