@@ -30,4 +30,4 @@ If you're new to coding, modifying Social Sleuth will be easy for you. Social Sl
 
 ---
 ## End
-Thanks for reading! Social Sleuth has no planned release date yet, however an announcement will be made when the release date is decided. For now, [you can look at the code for the current version.](https://github.com/OfficialB/ssnet)
+Thanks for reading! Social Sleuth has a planned release date of December 20th, 2022 PST. (12/20/2022)
