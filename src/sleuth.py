@@ -1,4 +1,4 @@
-# Import necessary modules (run sh/install_requirements.sh if you get any error regarding these. If that doesn't fix it create an issue on the repo.)
+# Import necessary modules
 import argparse
 import conf.var as var
 from conf.links import links_list
