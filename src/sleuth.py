@@ -6,7 +6,7 @@ import conf.var as var
 parser = argparse.ArgumentParser()
 
 # Add an argument with a short and long option
-parser.add_argument("-u", "--user", required=True, help="Username to look up")
+parser.add_argument("-u", "--username", required=True, help="Username to look up")
 
 # Parse the command line arguments
 args = parser.parse_args()
