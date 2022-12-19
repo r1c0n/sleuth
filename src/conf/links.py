@@ -39,5 +39,19 @@ links_list = [
         "\nhttps://{user}.great-site.net",
         "\nhttps://{user}.epizy.com",
         "\nhttps://{user}.42web.io",
-        "\nhttps://{user}.lovestoblog.com"
+        "\nhttps://{user}.lovestoblog.com",
+        "\nhttps://mastodon.cloud/@{user}",
+        "\nhttps://chaos.social/@{user}",
+        "\nhttps://mastodon.xyz/@{user}",
+        "\nhttps://mastodon.cloud/@{user}",
+        "\nhttps://trello.com/u/{user}",
+        "\nhttps://9gag.com/u/{user}",
+        "\nhttps://discussions.apple.com/profile/{user}",
+        "\nhttps://giphy.com/{user}",
+        "\nhttps://vk.com/@{user}",
+        "\nhttps://mastodon.lol/@{user}",
+        "\nhttps://genius.com/artists/{user}",
+        "\nhttps://gitlab.com/{user}",
+        "\nhttps://profile.cheezburger.com/{user}",
+        "\nhttps://www.bandlab.com/{user}"
 ]
