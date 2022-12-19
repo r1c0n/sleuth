@@ -5,8 +5,7 @@ This is where you can find our security related things.
 
 | Version | Supported          |
 | ------- | ------------------ |
-
-| Beta 4   | :white_check_mark: |
+| Release Candidate 1   | :white_check_mark: |
 | Beta 3   | :x: |
 | Beta 2   | :x:                |
 | Beta 1   | :x: |
