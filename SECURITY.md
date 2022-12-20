@@ -5,11 +5,9 @@ This is where you can find our security related things.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| Release Candidate 1   | :white_check_mark: |
-| Beta 3   | :x: |
-| Beta 2   | :x:                |
-| Beta 1   | :x: |
-| < 1.x.x   | :x:                |
+| v2.0.0 (LTS)   | :white_check_mark: |
+| v2.0.0 Dev. Versions   | :x: |
+| < 1.x.x  | :x: |
 
 ## Reporting a Vulnerability
 
