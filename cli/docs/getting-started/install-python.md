@@ -5,4 +5,4 @@ You can find the download to Python [here](https://www.python.org/downloads/).
 
 Make sure that you add Python 3.10 to PATH!
 
-[Next Page](https://github.com/OfficialB/sleuth/blob/main/docs/getting-started/install-git.md)
+[Next Page](https://github.com/OfficialB/sleuth/blob/main/cli/docs/getting-started/install-git.md)

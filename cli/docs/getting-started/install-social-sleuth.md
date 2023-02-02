@@ -15,4 +15,4 @@ Alternatively, you can use the following command inside of a command line interf
 pip install -r "requirements.txt"
 ```
 
-[Next Page](https://github.com/OfficialB/sleuth/blob/main/docs/usage/running-social-sleuth.md)
+[Next Page](https://github.com/OfficialB/sleuth/blob/main/cli/docs/usage/running-social-sleuth.md)
