@@ -36,7 +36,7 @@ user = args.user
 
 # Prints out links if the user argument has a value
 if user:
-    links_string = f"\nYou are currently running {var.product} v{var.v}, created by {var.creator}"
+    links_string = f"\nYou are currently running {var.product} v{var.v}, created by {var.creator}.\n\n{var.legal}"
     links_string += "\n----------------------------------------------" 
     links_string += "\n".join(link.format(user=user) for link in links_list)
     
